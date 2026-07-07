@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://clawhub.ai/bbroot/skills/novel-bug-checker"><img src="https://img.shields.io/badge/ClawHub-v1.0.0-7b2ff7?style=flat-square" alt="ClawHub"></a>
-  <a href="https://github.com/bbroot/novel-bug-checker"><img src="https://img.shields.io/badge/GitHub-open-2ea44f?style=flat-square" alt="GitHub"></a>
+  <a href="https://clawhub.ai/USER/skills/novel-bug-checker"><img src="https://img.shields.io/badge/ClawHub-v1.0.0-7b2ff7?style=flat-square" alt="ClawHub"></a>
+  <a href="https://github.com/USER/novel-bug-checker"><img src="https://img.shields.io/badge/GitHub-open-2ea44f?style=flat-square" alt="GitHub"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT"></a>
 </p>
 
@@ -157,6 +157,6 @@ Issues 和 PR 欢迎提交！
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/bbroot">bbroot</a><br>
+  Made with ❤️ by <a href="https://github.com/USER">USER</a><br>
   <sub>为每一部认真写作的小说的质量护航</sub>
 </p>
