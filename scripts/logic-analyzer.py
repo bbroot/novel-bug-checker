@@ -3,7 +3,7 @@
 """
 小说逻辑分析器脚本 (Logic Analyzer for Novel Writing)
 版本: 2.1.0
-作者: bbroot
+作者: AUTHOR
 日期: 2026-04-14
 
 功能概述:
