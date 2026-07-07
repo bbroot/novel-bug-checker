@@ -3,7 +3,7 @@
 """
 小说角色一致性检查脚本 (Consistency Checker for Novel Writing)
 版本: 2.0.0
-作者: bbroot
+作者: AUTHOR
 日期: 2026-04-14
 
 功能概述:
@@ -851,7 +851,7 @@ class NovelConsistencyChecker:
             
             # 找出变化最大的指标
             if metric_changes:
-                max_change_metric = max(metric_changes.items(), key=lambda x: x[1](@ref)
+                max_change_metric = max(metric_changes.items(), key=lambda x: x[1])
                 if max_change_metric[1] > 0.3:  # 变化阈值
                     changes.append({
                         'index': i,
