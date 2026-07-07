@@ -4,6 +4,8 @@
 >
 > 专业级中文小说叙事质量检测工具，定位逻辑漏洞、角色不一致、节奏问题与叙事 Bug，输出分级报告与可落地修复建议。
 > **v2 增强：可直接消费 novel-master 的分布式状态（NCG + 角色子进程），做更高精度的 OOC / 设定崩坏反向校验。**
+>
+> 📦 **v2.0.0 完整源码已发布在 GitHub：**[`bbroot/novel-bug-checker`](https://github.com/bbroot/novel-bug-checker)。ClawHub 市场页为 v1 入口，v2 内容请从 GitHub 获取与安装。
 
 <p align="center">
   <picture>
@@ -17,8 +19,8 @@
 </p>
 
 <p align="center">
-  <a href="https://clawhub.ai/bbroot/skills/novel-bug-checker"><img src="https://img.shields.io/badge/ClawHub-v2.0.0-7b2ff7?style=flat-square" alt="ClawHub"></a>
-  <a href="https://github.com/bbroot/novel-bug-checker"><img src="https://img.shields.io/badge/GitHub-open-2ea44f?style=flat-square" alt="GitHub"></a>
+  <a href="https://clawhub.ai/bbroot/skills/novel-bug-checker"><img src="https://img.shields.io/badge/ClawHub-marketplace-7b2ff7?style=flat-square" alt="ClawHub"></a>
+  <a href="https://github.com/bbroot/novel-bug-checker"><img src="https://img.shields.io/badge/GitHub-v2.0.0-2ea44f?style=flat-square" alt="GitHub"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT"></a>
   <a href="#v2-增强联动-novel-master"><img src="https://img.shields.io/badge/联动-novel--master-Purple?style=flat-square" alt="linked"></a>
 </p>
